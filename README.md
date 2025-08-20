@@ -1,4 +1,4 @@
-![Portfolio Preview](https://github.com/shuubham2204/MyPortFolio/blob/main/public/assets/seo/og-image.png?raw=true)
+![Portfolio Preview](https://github.com/shubham220420/MyPortFolio/blob/main/public/assets/seo/og-image.png?raw=true)
 
 # 🚀 My Portfolio Website
 
@@ -103,7 +103,7 @@ Note: Make sure to keep your API key secret and never commit it to your reposito
 Feel free to reach out to me for collaboration, feedback, or just to say hi! 😊
 
 - **Email:** b4mshubham@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/shubham-rakheja/)
+- **LinkedIn:** [Shubham Rakheja](https://www.linkedin.com/in/shubham-rakheja/)
 
 ---
 
